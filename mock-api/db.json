@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "zackdonea@hotmail.com",
+      "password": "$2a$10$irYgwfCQ7Br8vgZ9PglZeulzLiWgUqqV7xgLML3RczJIhY2Ps3SrS",
+      "fullName": "nguyen y van 12",
+      "id": 2
+    },
+    {
+      "email": "NphDtmh@gmail.com",
+      "password": "$2a$10$cjZ2n3yqSU9jmF5/9OicmukQfRVfbc45NjyqgwXbp8O17o00qyqXy",
+      "fullName": "Nguyễn Văn tú",
+      "id": 3
+    },
+    {
+      "email": "hunghunghai2802@gmail.com",
+      "password": "$2a$10$rUU5BgWGJnoRNcMb8y69iO.68Jbr38OTK/q/1QIoRuRzllJ/JWkcW",
+      "fullName": "Nguyễn Mạnh Tuấn",
+      "id": 4
+    },
+    {
+      "email": "100068889459526@gmail.com",
+      "password": "$2a$10$ndCX4dIhKnejwPgMfY5loe9gKL5va3c6HxutYW4bHuERWMrtmp.bG",
+      "fullName": "Hoàng Mạnh Tuấn",
+      "id": 5
+    }
+  ],
+  "student": [
+    {
+      "name": "Nguyễn Y Vân",
+      "age": 20
+    }
+  ]
+}
